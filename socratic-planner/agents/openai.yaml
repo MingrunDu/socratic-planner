@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Planner"
+  short_description: "Iterate vague ideas into approved plans."
+  default_prompt: "Use $socratic-planner to question, debate, and iterate on this vague idea until I explicitly approve the final plan."
