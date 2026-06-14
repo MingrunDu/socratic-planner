@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Paper Reading Agent"
+  short_description: "Chinese reproducibility-focused paper analysis."
+  default_prompt: "Use $socratic-paper-reading-agent to analyze this paper PDF into a Chinese reproducibility report with evidence anchors."

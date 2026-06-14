@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Planner"
+  short_description: "Iterate ideas into executable plans."
+  default_prompt: "Use $socratic-planner to clarify this vague idea with choice cards until I approve execution as a plan or goal."

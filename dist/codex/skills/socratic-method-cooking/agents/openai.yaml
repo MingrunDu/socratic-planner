@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Method Cooking"
+  short_description: "Evidence-based gaps to method flows."
+  default_prompt: "Use $socratic-method-cooking to clarify my core theme and data assets, search verified literature, recommend evidence-based research gaps, and match methodology flows."

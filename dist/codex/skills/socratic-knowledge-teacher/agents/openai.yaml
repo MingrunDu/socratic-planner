@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Knowledge Teacher"
+  short_description: "Beginner-friendly Socratic concept teaching."
+  default_prompt: "Use $socratic-knowledge-teacher to teach this concept from first principles with questions, analogies, and a complete example."

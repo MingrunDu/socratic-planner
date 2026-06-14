@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Prompt Midwife"
+  short_description: "Turn fuzzy prompts into executable plans."
+  default_prompt: "Use $socratic-prompt-midwife to clarify this prompt with choice cards, then ask whether to execute it as a plan or goal."

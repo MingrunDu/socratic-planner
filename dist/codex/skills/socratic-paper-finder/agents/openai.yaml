@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Paper Finder"
+  short_description: "Socratic literature search to Excel"
+  default_prompt: "Use $socratic-paper-finder to clarify my literature-search boundaries, verify papers online, and output an Excel evidence table."

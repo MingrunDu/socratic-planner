@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Plan Midwife"
+  short_description: "Clarify ideas into executable plans."
+  default_prompt: "Use $socratic-plan-midwife to clarify my vague idea with choice cards, turn it into an executable plan or prompt, and ask whether to execute it as a plan or goal."
